@@ -82,13 +82,23 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "Deloitte USI": { 
+      jobTitle: "Analyst Trainee @",
+      duration: "Feb 2026 - PRESENT",
+      desc: [
+        "Building backend services using Python and FastAPI for enterprise applications, focusing on scalable API design and performance optimization.",
+        "Working on data pipelines and cloud-based solutions aligned with real-world client requirements.",
+        "Collaborating with cross-functional teams to deliver production-grade solutions in a fast-paced environment."
+      ]
+
+    },
     Turing: {
       jobTitle: "Python Developer @",
-      duration: "JUL 2025 - PRESENT",
+      duration: "JUL 2025 - Jan 2026",
       desc: [
-        "Engineered end-to-end backend pipelines for client-facing applications using Python and FastAPI, significantly improving data ingestion speed and reliability for real-time platforms.",
-        "Automated core backend workflows, reducing manual API deployment time from hours to under 10 minutes using Dockerized CI/CD pipelines.",
-        "Shipped production-ready APIs powering global services across multiple clients in fintech and SaaS sectors."
+        "Developed backend systems using Python and REST APIs for real-world problem statements.",
+        "Worked on data processing and automation tasks improving system efficiency.",
+        "Gained hands-on experience in writing clean, maintainable, and production-ready code."
       ]
     },
     Google: {

@@ -20,8 +20,8 @@ class About extends React.Component {
     const one = (
       <p>
         I am  a <b>Computer Science Graduate</b> from
-        <a href="https://www.geu.ac.in/"> Graphic era Deemed to be University</a>, currently working as a <b> Software Developer</b> at{" "}
-        <a href="https://www.turing.com/">Turing</a>.
+        <a href="https://www.geu.ac.in/"> Graphic era Deemed to be University</a>, currently working as a <b> Analyst Trainee </b> at{" "}
+        <a href="https://www.deloitte.com/in/en/offices/hyderabad.html">Deloitte USI </a>.
       </p>
     );
     const two = (
