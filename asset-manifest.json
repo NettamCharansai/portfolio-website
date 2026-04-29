@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/[https://nettamcharansai.github.io/portfolio-website/](https://nettamcharansai.github.io/portfolio-website/)/static/css/main.65d60b23.css",
-    "main.js": "/[https://nettamcharansai.github.io/portfolio-website/](https://nettamcharansai.github.io/portfolio-website/)/static/js/main.c1ec3cd9.js",
-    "index.html": "/[https://nettamcharansai.github.io/portfolio-website/](https://nettamcharansai.github.io/portfolio-website/)/index.html",
-    "main.65d60b23.css.map": "/[https://nettamcharansai.github.io/portfolio-website/](https://nettamcharansai.github.io/portfolio-website/)/static/css/main.65d60b23.css.map",
-    "main.c1ec3cd9.js.map": "/[https://nettamcharansai.github.io/portfolio-website/](https://nettamcharansai.github.io/portfolio-website/)/static/js/main.c1ec3cd9.js.map"
+    "main.css": "/[https://nettamcharansai.github.io/portfolio-website](https://nettamcharansai.github.io/portfolio-website)/static/css/main.65d60b23.css",
+    "main.js": "/[https://nettamcharansai.github.io/portfolio-website](https://nettamcharansai.github.io/portfolio-website)/static/js/main.afa67dfd.js",
+    "index.html": "/[https://nettamcharansai.github.io/portfolio-website](https://nettamcharansai.github.io/portfolio-website)/index.html",
+    "main.65d60b23.css.map": "/[https://nettamcharansai.github.io/portfolio-website](https://nettamcharansai.github.io/portfolio-website)/static/css/main.65d60b23.css.map",
+    "main.afa67dfd.js.map": "/[https://nettamcharansai.github.io/portfolio-website](https://nettamcharansai.github.io/portfolio-website)/static/js/main.afa67dfd.js.map"
   },
   "entrypoints": [
     "static/css/main.65d60b23.css",
-    "static/js/main.c1ec3cd9.js"
+    "static/js/main.afa67dfd.js"
   ]
 }
