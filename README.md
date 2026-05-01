@@ -1,6 +1,6 @@
 #  Portfolio Website – Nettam Charan Sai
 
-A modern, responsive portfolio website built using React.js and Material UI to showcase my work in **backend systems, distributed applications, and performance-focused engineering projects**.
+A modern, responsive portfolio website built using React.js and Material UI to showcase my work in **backend systems, scalable applications, and system design–focused engineering projects**.
 
 ---
 
@@ -24,6 +24,7 @@ https://nettamcharansai.github.io/portfolio-website/ (GitHub Pages)
 ---
 
 ##  Architecture & Deployment
+The portfolio is deployed as a static single-page application with automated CI/CD using GitHub Actions
 
 ```text id="s66z8o"
                 ┌──────────────────────────┐
@@ -186,7 +187,7 @@ Every push to the main branch triggers deployment.
 
 This portfolio is designed to:
 
-* Showcase **engineering-focused projects**
+* Showcase **production-oriented engineering projects and system design capabilities**
 * Highlight **system design and backend capabilities**
 * Serve as a professional entry point for recruiters and collaborators
 
